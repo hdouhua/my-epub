@@ -1,0 +1,23 @@
+---
+title:
+- type: main
+  text: 基因天命
+- type: subtitle
+  text: 人类设计中的全息密码书，每个人都可以从爱中观照，进入悉地境界
+creator:
+- role: author
+  text: Richard Rudd & 陈冠达 著
+- role: translator
+  text: Kammy Chung & Deeps Gwai 译
+- role: editor
+  text: 道出品
+date: 2022-10
+lang: zh-CN
+# subject: 
+# description: 
+rights: 版权归作者所有
+# publisher:
+cover-image: ./css/cover.jpg
+css:
+  - ./css/my.css
+...

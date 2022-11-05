@@ -1,0 +1,20 @@
+---
+title:
+- type: main
+  text: 金刚般若波罗蜜经
+- type: subtitle
+  text: 众生空，法亦空
+creator:
+- role: author
+  text: 如来世尊释迦牟尼 述
+- role: author
+  text: 阿傩 记
+- role: translator
+  text: 鸠摩罗什 译
+- role: editor
+  text: 道出品
+date: 2015-09
+lang: zh-CN
+css:
+  - ./css/my.css
+...

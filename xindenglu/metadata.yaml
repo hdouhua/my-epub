@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 - type: main
   text: 心灯录
 - type: subtitle
@@ -7,11 +7,17 @@ title:
 creator:
 - role: author
   text: 【清】湛愚老人 著
-pagetitle: sample
+# - role: translator
+#   text: xxx
+- role: editor
+  text: 道出品
 date: 2018-03 电子版
-language: zh-CN
-description: 
+lang: zh-CN
+# subject: 
+# description: 
+# rights: 版权归作者所有
+# publisher:
 cover-image: ./css/cover_2.png
-stylesheet: 
-  - ./css/md-yang.css
+css:
+  - ./css/md.css
 ...

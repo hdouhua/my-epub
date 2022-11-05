@@ -1,0 +1,14 @@
+{
+  "name": "xindenglu-spider",
+  "version": "0.9",
+  "description": "get content from http://www.daode.org/rdbook/xdl/index.html",
+  "main": "index.js",
+  "author": "dao",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "superagent": "^3.8.2",
+    "superagent-charset": "^1.2.0"
+  }
+}

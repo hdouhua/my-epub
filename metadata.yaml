@@ -1,0 +1,17 @@
+---
+title: 
+- type: main
+  text: 心灯录
+- type: subtitle
+  text: 歇即菩提
+creator:
+- role: author
+  text: 【清】湛愚老人 著
+pagetitle: sample
+date: 2018-03 电子版
+language: zh-CN
+description: 
+cover-image: ./css/cover_2.png
+stylesheet: 
+  - ./css/md-yang.css
+...

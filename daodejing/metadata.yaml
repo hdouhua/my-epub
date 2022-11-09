@@ -1,0 +1,15 @@
+---
+title:
+- type: main
+  text: 道德经
+creator:
+- role: author
+  text: 老子
+- role: editor
+  text: 道出品
+date: 2022-11
+lang: zh-CN
+
+css:
+  - ./css/my.css
+...

@@ -1,5 +1,5 @@
 BUILD = ../build
-BOOKNAME = 道德经
+BOOKNAME = 德道经
 METADATA = metadata.yaml
 TOC = --toc --toc-depth=2
 SRC_DIR = ./content

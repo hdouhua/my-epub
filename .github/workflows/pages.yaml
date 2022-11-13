@@ -25,6 +25,7 @@ jobs:
         run: |
           cd gene
           hugo --minify --destination ../public
+          cp css/*.jpg ../public/css
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

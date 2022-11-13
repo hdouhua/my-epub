@@ -1,0 +1,13 @@
+baseurl = "https://zhaohuabing.com"
+title = "基因天命"
+theme = "hugo-theme-cleanwhite"
+languageCode = "zh"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+googleAnalytics = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "RSS"]

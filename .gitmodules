@@ -1,0 +1,6 @@
+[submodule "gene/themes/meme"]
+	path = gene/themes/meme
+	url = https://github.com/reuixiy/hugo-theme-meme.git
+[submodule "gene/themes/hugo-theme-cleanwhite"]
+	path = gene/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git

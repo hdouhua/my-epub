@@ -24,7 +24,7 @@ jobs:
       - name: Build
         run: |
           cd gene
-          hugo --minify
+          hugo --minify --destination ../public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

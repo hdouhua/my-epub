@@ -24,9 +24,8 @@ jobs:
       - name: Build
         run: |
           cd gene
-          [ -d static/css ] && mkdir css
-          cp css/*.jpg static/css
           hugo --minify --destination ../public
+          cp -r css ../public/book/book-00/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

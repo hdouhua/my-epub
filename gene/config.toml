@@ -1,9 +1,9 @@
-baseurl = "https://hdouhua.github.io/my-epub/"
+#baseurl = "http://localhost:3000/my-epub/"
+baseURL = "/my-epub/"
 title = "基因天命"
 theme = "hugo-theme-learn"
 languageCode = "zh"
-relativeURLs=true
+#relativeURLs=true
 
-# For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

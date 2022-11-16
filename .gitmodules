@@ -1,6 +1,9 @@
-[submodule "gene/themes/meme"]
-	path = gene/themes/meme
-	url = https://github.com/reuixiy/hugo-theme-meme.git
-[submodule "gene/themes/hugo-theme-cleanwhite"]
-	path = gene/themes/hugo-theme-cleanwhite
-	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "gene/themes/freelancer"]
+	path = gene/themes/freelancer
+	url = https://github.com/joseph-mccarthy/hugo-bootstrap-freelancer-template
+[submodule "gene/themes/hugo-theme-learn"]
+	path = gene/themes/hugo-theme-learn
+	url = https://github.com/matcornic/hugo-theme-learn.git
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme.git

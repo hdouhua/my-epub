@@ -1,0 +1,25 @@
+baseurl = "http://192.168.1.94:3000"
+title = "基因天命"
+theme = "hugo-winston-theme"
+languageCode = "zh"
+relativeURLs=true
+
+tags = ["blog", "minimal", "clean", "zerostatic"]
+features = ["blog"]
+
+# config.toml
+[params]
+  google_analytics_id = ""
+  twitter_handle = "@zerostaticio"
+  showAuthorOnHomepage = true
+  showAuthorOnPosts = false
+  showPostsOnHomepage = false
+  addDot = true
+  addFrame = true
+  baseColor = "#ffffff"
+  baseOffsetColor = "#eaeaea"
+  highlightColor = "#7b16ff"
+  dotColor = "#7b16ff"
+  headingColor = "#1c1b1d"
+  textColor = "#4e5157"
+

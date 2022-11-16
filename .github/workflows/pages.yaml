@@ -24,8 +24,9 @@ jobs:
       - name: Build
         run: |
           cd gene
+          [ -d static/css ] && mkdir css
+          cp css/*.jpg static/css
           hugo --minify --destination ../public
-          cp css/*.jpg ../public/css
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -33,3 +34,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          clean: true

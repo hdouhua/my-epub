@@ -1,4 +1,4 @@
-baseurl = "https://hdouhua.github.io/my-epub/"
+baseurl = "http://localhost:3000/"
 title = "基因天命"
 theme = "hugo-theme-learn"
 languageCode = "zh"

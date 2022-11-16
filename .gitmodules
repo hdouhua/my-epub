@@ -4,6 +4,6 @@
 [submodule "gene/themes/hugo-theme-learn"]
 	path = gene/themes/hugo-theme-learn
 	url = https://github.com/matcornic/hugo-theme-learn.git
-[submodule "themes/hugo-winston-theme"]
-	path = themes/hugo-winston-theme
+[submodule "gene/themes/hugo-winston-theme"]
+	path = gene/themes/hugo-winston-theme
 	url = https://github.com/zerostaticthemes/hugo-winston-theme.git

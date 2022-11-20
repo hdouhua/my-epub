@@ -1,5 +1,8 @@
 .DS_Store
 *.html
 build/
-gene/res/
-public/
+
+# hugo
+/public/
+gene/resources/_gen/
+.hugo_build.lock

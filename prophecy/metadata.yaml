@@ -1,0 +1,23 @@
+---
+title:
+- type: main
+  text: 拉・乌卢・胡的人类大预言
+- type: subtitle
+  text: 來自人類設計祖師爺的世紀大預言！
+creator:
+- role: author
+  text: 史提夫・罗德斯 & 陈冠达 著
+- role: translator
+  text: Lallen Sai 译
+- role: editor
+  text: 道出品
+date: 2023-01
+lang: zh-CN
+# subject: 
+# description: 
+rights: 版权归作者所有
+# publisher:
+cover-image: ./css/cover.jpg
+css:
+  - ./css/my.css
+...

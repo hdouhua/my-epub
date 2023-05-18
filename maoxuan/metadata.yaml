@@ -18,6 +18,7 @@ lang: zh-CN
 # description: 
 # rights: 版权归作者所有
 # publisher:
+cover-image: ./css/cover.jpg
 css:
   - ./css/my.css
 ...

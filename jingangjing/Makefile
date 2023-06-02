@@ -19,8 +19,8 @@ html:
 	$(EPUB_BUILDER) -f markdown -t html5 --template base.html5 html.yaml $(TOC) -o $(BOOKNAME).html `ls ./content/*.md` --verbose
 
 clean:
-	rm $(BUILD)/$(BOOKNAME).epub
-	rm $(BUILD)/$(BOOKNAME).docx
-	rm $(BOOKNAME).html
+	rm -f $(BUILD)/$(BOOKNAME).epub
+	rm -f $(BUILD)/$(BOOKNAME).docx
+	rm -f $(BOOKNAME).html
 
 .PHONY: clean epub docx html
